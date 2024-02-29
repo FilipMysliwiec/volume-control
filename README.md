@@ -5,7 +5,7 @@ This Python script allows you to automate the volume control of specific applica
 ## Features
 
 - Automatically adjusts the volume of Spotify based on the activity of Google Chrome
-- Press the `Insert` key to reset the volumes to their default levels
+- Press the `Insert` key to reset the volumes to their default levels and end the script
 
 ## Prerequisites
 
